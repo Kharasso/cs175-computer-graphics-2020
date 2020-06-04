@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>66F8C1CF-ECE4-4D7B-84A5-210C9833FFE3</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D3CFAD576E1F762964A26970C47DB400228E1C61</key>
+		<string>bitbucket.org:shenfy/cs175_asst.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>asst/asst1_HW2D/starter/cs175-asst1.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D3CFAD576E1F762964A26970C47DB400228E1C61</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>bitbucket.org:shenfy/cs175_asst.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D3CFAD576E1F762964A26970C47DB400228E1C61</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D3CFAD576E1F762964A26970C47DB400228E1C61</string>
+			<key>IDESourceControlWCCName</key>
+			<string>current-cs175</string>
+		</dict>
+	</array>
+</dict>
+</plist>
